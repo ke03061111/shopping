@@ -1,0 +1,2 @@
+cn.mall.shop.framework.env.config.ShopEnvWebAutoConfiguration
+cn.mall.shop.framework.env.config.ShopEnvRpcAutoConfiguration

@@ -1,0 +1,2 @@
+cn.mall.shop.framework.tracer.config.ShopTracerAutoConfiguration
+cn.mall.shop.framework.tracer.config.ShopMetricsAutoConfiguration

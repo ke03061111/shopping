@@ -1,0 +1,5 @@
+cn.mall.shop.framework.security.config.ShopSecurityRpcAutoConfiguration
+cn.mall.shop.framework.security.config.ShopSecurityAutoConfiguration
+cn.mall.shop.framework.security.config.ShopWebSecurityConfigurerAdapter
+cn.mall.shop.framework.operatelog.config.ShopOperateLogConfiguration
+cn.mall.shop.framework.operatelog.config.ShopOperateLogRpcAutoConfiguration

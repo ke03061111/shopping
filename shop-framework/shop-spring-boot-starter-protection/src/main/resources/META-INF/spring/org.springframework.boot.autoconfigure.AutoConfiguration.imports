@@ -1,0 +1,4 @@
+cn.mall.shop.framework.idempotent.config.ShopIdempotentConfiguration
+cn.mall.shop.framework.lock4j.config.ShopLock4jConfiguration
+cn.mall.shop.framework.ratelimiter.config.ShopRateLimiterConfiguration
+cn.mall.shop.framework.signature.config.ShopApiSignatureAutoConfiguration

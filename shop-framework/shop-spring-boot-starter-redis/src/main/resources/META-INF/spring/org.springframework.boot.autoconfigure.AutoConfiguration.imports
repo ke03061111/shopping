@@ -1,0 +1,2 @@
+cn.mall.shop.framework.redis.config.ShopRedisAutoConfiguration
+cn.mall.shop.framework.redis.config.ShopCacheAutoConfiguration

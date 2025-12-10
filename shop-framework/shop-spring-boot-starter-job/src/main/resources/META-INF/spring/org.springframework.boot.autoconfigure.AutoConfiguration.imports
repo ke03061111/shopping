@@ -1,0 +1,2 @@
+cn.mall.shop.framework.quartz.config.ShopXxlJobAutoConfiguration
+cn.mall.shop.framework.quartz.config.ShopAsyncAutoConfiguration

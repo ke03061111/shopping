@@ -1,0 +1,3 @@
+cn.mall.shop.framework.mq.redis.config.ShopRedisMQProducerAutoConfiguration
+cn.mall.shop.framework.mq.redis.config.ShopRedisMQConsumerAutoConfiguration
+cn.mall.shop.framework.mq.rabbitmq.config.ShopRabbitMQAutoConfiguration

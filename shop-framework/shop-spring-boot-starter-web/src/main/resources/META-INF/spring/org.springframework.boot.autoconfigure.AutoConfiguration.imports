@@ -1,0 +1,8 @@
+cn.mall.shop.framework.apilog.config.ShopApiLogAutoConfiguration
+cn.mall.shop.framework.jackson.config.ShopJacksonAutoConfiguration
+cn.mall.shop.framework.swagger.config.ShopSwaggerAutoConfiguration
+cn.mall.shop.framework.web.config.ShopWebAutoConfiguration
+cn.mall.shop.framework.apilog.config.ShopApiLogRpcAutoConfiguration
+cn.mall.shop.framework.xss.config.ShopXssAutoConfiguration
+cn.mall.shop.framework.banner.config.ShopBannerAutoConfiguration
+cn.mall.shop.framework.encrypt.config.ShopApiEncryptAutoConfiguration

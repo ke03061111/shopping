@@ -1,0 +1,4 @@
+/**
+ * 占位
+ */
+package cn.mall.shop.module.member.framework.rpc;
